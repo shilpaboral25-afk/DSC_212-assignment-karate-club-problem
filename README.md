@@ -1,6 +1,6 @@
 # Modularity on the Karate Club Graph (DSC212)
 
-This repository has my research assignment for the Graph Theory module that I did using spectral modularity to find communities in Zachary's Karate Club network.
+This repository has my DSC 212 assignment for the Graph Theory module that I did using spectral modularity to find communities in Zachary's Karate Club network.
 
 ## What the notebook does
 1. Loads the Karate Club graph with NetworkX and builds the modularity matrix `B = A - k k^T / 2m`.
